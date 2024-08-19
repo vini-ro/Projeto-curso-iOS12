@@ -7,27 +7,27 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		8187762C2C73AC5E00DF53FB /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8187762B2C73AC5E00DF53FB /* AppDelegate.swift */; };
-		8187762E2C73AC5E00DF53FB /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8187762D2C73AC5E00DF53FB /* SceneDelegate.swift */; };
-		818776302C73AC5E00DF53FB /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8187762F2C73AC5E00DF53FB /* ViewController.swift */; };
-		818776332C73AC5E00DF53FB /* Base in Resources */ = {isa = PBXBuildFile; fileRef = 818776322C73AC5E00DF53FB /* Base */; };
-		818776352C73AC6100DF53FB /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 818776342C73AC6100DF53FB /* Assets.xcassets */; };
-		818776382C73AC6100DF53FB /* Base in Resources */ = {isa = PBXBuildFile; fileRef = 818776372C73AC6100DF53FB /* Base */; };
+		8187764C2C73BBF100DF53FB /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8187764B2C73BBF100DF53FB /* AppDelegate.swift */; };
+		8187764E2C73BBF100DF53FB /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8187764D2C73BBF100DF53FB /* SceneDelegate.swift */; };
+		818776502C73BBF100DF53FB /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8187764F2C73BBF100DF53FB /* ViewController.swift */; };
+		818776532C73BBF100DF53FB /* Base in Resources */ = {isa = PBXBuildFile; fileRef = 818776522C73BBF100DF53FB /* Base */; };
+		818776552C73BBF300DF53FB /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 818776542C73BBF300DF53FB /* Assets.xcassets */; };
+		818776582C73BBF300DF53FB /* Base in Resources */ = {isa = PBXBuildFile; fileRef = 818776572C73BBF300DF53FB /* Base */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		818776282C73AC5E00DF53FB /* Alcool ou Gasolina.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Alcool ou Gasolina.app"; sourceTree = BUILT_PRODUCTS_DIR; };
-		8187762B2C73AC5E00DF53FB /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
-		8187762D2C73AC5E00DF53FB /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
-		8187762F2C73AC5E00DF53FB /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
-		818776322C73AC5E00DF53FB /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
-		818776342C73AC6100DF53FB /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
-		818776372C73AC6100DF53FB /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
-		818776392C73AC6100DF53FB /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		818776482C73BBF100DF53FB /* Auto Layout.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Auto Layout.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		8187764B2C73BBF100DF53FB /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
+		8187764D2C73BBF100DF53FB /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
+		8187764F2C73BBF100DF53FB /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
+		818776522C73BBF100DF53FB /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		818776542C73BBF300DF53FB /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		818776572C73BBF300DF53FB /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		818776592C73BBF300DF53FB /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
-		818776252C73AC5E00DF53FB /* Frameworks */ = {
+		818776452C73BBF100DF53FB /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -37,72 +37,72 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		8187761F2C73AC5E00DF53FB = {
+		8187763F2C73BBF000DF53FB = {
 			isa = PBXGroup;
 			children = (
-				8187762A2C73AC5E00DF53FB /* Alcool ou Gasolina */,
-				818776292C73AC5E00DF53FB /* Products */,
+				8187764A2C73BBF100DF53FB /* Auto Layout */,
+				818776492C73BBF100DF53FB /* Products */,
 			);
 			sourceTree = "<group>";
 		};
-		818776292C73AC5E00DF53FB /* Products */ = {
+		818776492C73BBF100DF53FB /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				818776282C73AC5E00DF53FB /* Alcool ou Gasolina.app */,
+				818776482C73BBF100DF53FB /* Auto Layout.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
 		};
-		8187762A2C73AC5E00DF53FB /* Alcool ou Gasolina */ = {
+		8187764A2C73BBF100DF53FB /* Auto Layout */ = {
 			isa = PBXGroup;
 			children = (
-				8187762B2C73AC5E00DF53FB /* AppDelegate.swift */,
-				8187762D2C73AC5E00DF53FB /* SceneDelegate.swift */,
-				8187762F2C73AC5E00DF53FB /* ViewController.swift */,
-				818776312C73AC5E00DF53FB /* Main.storyboard */,
-				818776342C73AC6100DF53FB /* Assets.xcassets */,
-				818776362C73AC6100DF53FB /* LaunchScreen.storyboard */,
-				818776392C73AC6100DF53FB /* Info.plist */,
+				8187764B2C73BBF100DF53FB /* AppDelegate.swift */,
+				8187764D2C73BBF100DF53FB /* SceneDelegate.swift */,
+				8187764F2C73BBF100DF53FB /* ViewController.swift */,
+				818776512C73BBF100DF53FB /* Main.storyboard */,
+				818776542C73BBF300DF53FB /* Assets.xcassets */,
+				818776562C73BBF300DF53FB /* LaunchScreen.storyboard */,
+				818776592C73BBF300DF53FB /* Info.plist */,
 			);
-			path = "Alcool ou Gasolina";
+			path = "Auto Layout";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		818776272C73AC5E00DF53FB /* Alcool ou Gasolina */ = {
+		818776472C73BBF100DF53FB /* Auto Layout */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 8187763C2C73AC6100DF53FB /* Build configuration list for PBXNativeTarget "Alcool ou Gasolina" */;
+			buildConfigurationList = 8187765C2C73BBF300DF53FB /* Build configuration list for PBXNativeTarget "Auto Layout" */;
 			buildPhases = (
-				818776242C73AC5E00DF53FB /* Sources */,
-				818776252C73AC5E00DF53FB /* Frameworks */,
-				818776262C73AC5E00DF53FB /* Resources */,
+				818776442C73BBF100DF53FB /* Sources */,
+				818776452C73BBF100DF53FB /* Frameworks */,
+				818776462C73BBF100DF53FB /* Resources */,
 			);
 			buildRules = (
 			);
 			dependencies = (
 			);
-			name = "Alcool ou Gasolina";
-			productName = "Alcool ou Gasolina";
-			productReference = 818776282C73AC5E00DF53FB /* Alcool ou Gasolina.app */;
+			name = "Auto Layout";
+			productName = "Auto Layout";
+			productReference = 818776482C73BBF100DF53FB /* Auto Layout.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
 
 /* Begin PBXProject section */
-		818776202C73AC5E00DF53FB /* Project object */ = {
+		818776402C73BBF000DF53FB /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
 				BuildIndependentTargetsInParallel = 1;
 				LastSwiftUpdateCheck = 1540;
 				LastUpgradeCheck = 1540;
 				TargetAttributes = {
-					818776272C73AC5E00DF53FB = {
+					818776472C73BBF100DF53FB = {
 						CreatedOnToolsVersion = 15.4;
 					};
 				};
 			};
-			buildConfigurationList = 818776232C73AC5E00DF53FB /* Build configuration list for PBXProject "Alcool ou Gasolina" */;
+			buildConfigurationList = 818776432C73BBF000DF53FB /* Build configuration list for PBXProject "Auto Layout" */;
 			compatibilityVersion = "Xcode 14.0";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -110,55 +110,55 @@
 				en,
 				Base,
 			);
-			mainGroup = 8187761F2C73AC5E00DF53FB;
-			productRefGroup = 818776292C73AC5E00DF53FB /* Products */;
+			mainGroup = 8187763F2C73BBF000DF53FB;
+			productRefGroup = 818776492C73BBF100DF53FB /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				818776272C73AC5E00DF53FB /* Alcool ou Gasolina */,
+				818776472C73BBF100DF53FB /* Auto Layout */,
 			);
 		};
 /* End PBXProject section */
 
 /* Begin PBXResourcesBuildPhase section */
-		818776262C73AC5E00DF53FB /* Resources */ = {
+		818776462C73BBF100DF53FB /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				818776352C73AC6100DF53FB /* Assets.xcassets in Resources */,
-				818776382C73AC6100DF53FB /* Base in Resources */,
-				818776332C73AC5E00DF53FB /* Base in Resources */,
+				818776552C73BBF300DF53FB /* Assets.xcassets in Resources */,
+				818776582C73BBF300DF53FB /* Base in Resources */,
+				818776532C73BBF100DF53FB /* Base in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
-		818776242C73AC5E00DF53FB /* Sources */ = {
+		818776442C73BBF100DF53FB /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				818776302C73AC5E00DF53FB /* ViewController.swift in Sources */,
-				8187762C2C73AC5E00DF53FB /* AppDelegate.swift in Sources */,
-				8187762E2C73AC5E00DF53FB /* SceneDelegate.swift in Sources */,
+				818776502C73BBF100DF53FB /* ViewController.swift in Sources */,
+				8187764C2C73BBF100DF53FB /* AppDelegate.swift in Sources */,
+				8187764E2C73BBF100DF53FB /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXSourcesBuildPhase section */
 
 /* Begin PBXVariantGroup section */
-		818776312C73AC5E00DF53FB /* Main.storyboard */ = {
+		818776512C73BBF100DF53FB /* Main.storyboard */ = {
 			isa = PBXVariantGroup;
 			children = (
-				818776322C73AC5E00DF53FB /* Base */,
+				818776522C73BBF100DF53FB /* Base */,
 			);
 			name = Main.storyboard;
 			sourceTree = "<group>";
 		};
-		818776362C73AC6100DF53FB /* LaunchScreen.storyboard */ = {
+		818776562C73BBF300DF53FB /* LaunchScreen.storyboard */ = {
 			isa = PBXVariantGroup;
 			children = (
-				818776372C73AC6100DF53FB /* Base */,
+				818776572C73BBF300DF53FB /* Base */,
 			);
 			name = LaunchScreen.storyboard;
 			sourceTree = "<group>";
@@ -166,7 +166,7 @@
 /* End PBXVariantGroup section */
 
 /* Begin XCBuildConfiguration section */
-		8187763A2C73AC6100DF53FB /* Debug */ = {
+		8187765A2C73BBF300DF53FB /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -229,7 +229,7 @@
 			};
 			name = Debug;
 		};
-		8187763B2C73AC6100DF53FB /* Release */ = {
+		8187765B2C73BBF300DF53FB /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -285,7 +285,7 @@
 			};
 			name = Release;
 		};
-		8187763D2C73AC6100DF53FB /* Debug */ = {
+		8187765D2C73BBF300DF53FB /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
@@ -294,7 +294,7 @@
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_TEAM = 8JLP5GQ9A5;
 				GENERATE_INFOPLIST_FILE = YES;
-				INFOPLIST_FILE = "Alcool ou Gasolina/Info.plist";
+				INFOPLIST_FILE = "Auto Layout/Info.plist";
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
 				INFOPLIST_KEY_UIMainStoryboardFile = Main;
@@ -305,19 +305,15 @@
 					"@executable_path/Frameworks",
 				);
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = "com.Curso-IOS.Alcool-ou-Gasolina";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.Curso-IOS.Auto-Layout";
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator";
-				SUPPORTS_MACCATALYST = NO;
-				SUPPORTS_MAC_DESIGNED_FOR_IPHONE_IPAD = NO;
-				SUPPORTS_XR_DESIGNED_FOR_IPHONE_IPAD = NO;
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
-				TARGETED_DEVICE_FAMILY = 1;
+				TARGETED_DEVICE_FAMILY = "1,2";
 			};
 			name = Debug;
 		};
-		8187763E2C73AC6100DF53FB /* Release */ = {
+		8187765E2C73BBF300DF53FB /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
@@ -326,7 +322,7 @@
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_TEAM = 8JLP5GQ9A5;
 				GENERATE_INFOPLIST_FILE = YES;
-				INFOPLIST_FILE = "Alcool ou Gasolina/Info.plist";
+				INFOPLIST_FILE = "Auto Layout/Info.plist";
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
 				INFOPLIST_KEY_UIMainStoryboardFile = Main;
@@ -337,40 +333,36 @@
 					"@executable_path/Frameworks",
 				);
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = "com.Curso-IOS.Alcool-ou-Gasolina";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.Curso-IOS.Auto-Layout";
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator";
-				SUPPORTS_MACCATALYST = NO;
-				SUPPORTS_MAC_DESIGNED_FOR_IPHONE_IPAD = NO;
-				SUPPORTS_XR_DESIGNED_FOR_IPHONE_IPAD = NO;
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
-				TARGETED_DEVICE_FAMILY = 1;
+				TARGETED_DEVICE_FAMILY = "1,2";
 			};
 			name = Release;
 		};
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		818776232C73AC5E00DF53FB /* Build configuration list for PBXProject "Alcool ou Gasolina" */ = {
+		818776432C73BBF000DF53FB /* Build configuration list for PBXProject "Auto Layout" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				8187763A2C73AC6100DF53FB /* Debug */,
-				8187763B2C73AC6100DF53FB /* Release */,
+				8187765A2C73BBF300DF53FB /* Debug */,
+				8187765B2C73BBF300DF53FB /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		8187763C2C73AC6100DF53FB /* Build configuration list for PBXNativeTarget "Alcool ou Gasolina" */ = {
+		8187765C2C73BBF300DF53FB /* Build configuration list for PBXNativeTarget "Auto Layout" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				8187763D2C73AC6100DF53FB /* Debug */,
-				8187763E2C73AC6100DF53FB /* Release */,
+				8187765D2C73BBF300DF53FB /* Debug */,
+				8187765E2C73BBF300DF53FB /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
-	rootObject = 818776202C73AC5E00DF53FB /* Project object */;
+	rootObject = 818776402C73BBF000DF53FB /* Project object */;
 }
